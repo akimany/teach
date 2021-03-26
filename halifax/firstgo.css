@@ -1,0 +1,39 @@
+body{ background-color:green; }
+
+div{
+	float: left;
+	width: 30%;
+margin-left: 2%;	border: 2px solid red;
+}
+div h1{padding-left: 5%;}
+
+
+
+div p{padding: 10%; background-color: blueviolet
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+h2,h3 {color : white; font-size : 28px;
+	font-family : Calibri;
+	font-style : italic;
+	}
+	
+/*h4{
+	font: 28px Calibri italic
+}	*/
+
+*/
