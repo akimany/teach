@@ -1,39 +1,54 @@
-body{ background-color:green; }
+body{ 
+	background-color:red; 
+}
 
 div{
 	float: left;
 	width: 30%;
-margin-left: 2%;	border: 2px solid red;
-}
-div h1{padding-left: 5%;}
-
-
-
-div p{padding: 10%; background-color: blueviolet
+	margin-left: 2%;	
+	border: 2px solid red;
 }
 
+h1{border : 2px solid white;
+	color: white;
+	padding-left: 10%;
+	text-align: center;
+}
+
+
+div p{
+	padding: 10%; 
+	background-color: blueviolet;
+}
 
 
 
 
 
 
+/* Image css */
+
+div.cat, div.ahmed {	
+	border : 2px solid white;
+	text-align: center;
+}
+
+div.cat h2, div.ahmed h2{
+}
+
+div.cat p, div.ahmed p{
+	padding: 3%;
+	background-color: transparent;
+	font-family: Calibri;
+	font-size: 1.5em;
+	font-style: italic;
+	text-align: left;
+}
 
 
-
-
-
-
-
-/*
-
-h2,h3 {color : white; font-size : 28px;
-	font-family : Calibri;
-	font-style : italic;
-	}
-	
-/*h4{
-	font: 28px Calibri italic
-}	*/
-
-*/
+div.cat img, div.ahmed img{
+	border-radius:4px;
+	width: 90%;
+	border : 2px solid #ddd;
+	padding: 4px
+}

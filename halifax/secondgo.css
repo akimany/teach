@@ -1,0 +1,58 @@
+body{ 
+	background-color:red; 
+}
+
+div{
+	float: left;
+	width: 30%;
+	margin-left: 2%;	
+	border: 2px solid red;
+}
+
+h1{border : 2px solid white;
+	color: white;
+	padding-left: 10%;
+	text-align: center;
+}
+
+
+div p{
+	padding: 10%; 
+	background-color: blueviolet;
+}
+
+
+
+
+
+
+/* Image css */
+
+div#container{
+	width: 100%;
+	clear: both;
+}
+div#container div{
+	border : 2px solid white;
+	text-align: center;
+	width: 20%;
+	float: left;
+}
+
+
+div#container div p{
+	padding: 3%;
+	background-color: transparent;
+	font-family: Calibri;
+	font-size: 1.5em;
+	font-style: italic;
+	text-align: left;
+}
+
+
+div#container div img{
+	border-radius:4px;
+	width: 90%;
+	border : 2px solid #ddd;
+	padding: 4px
+}
